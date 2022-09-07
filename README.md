@@ -6,6 +6,8 @@ Projeto feito com spring boot e o framework bootstrap ( o bootstrap para estar f
 - <a href="https://startbootstrap.com/theme/sb-admin-2"> Visualização do template do Bootstrap</a><p>
 - <a href="https://github.com/startbootstrap/startbootstrap-sb-admin-2 ">Download do template do Bootstrap</a>
 
+Essa aplicação esta trabalhando com arquivos estáticos do bootstrap aonde passo pros templates os que vou estar utilzando e os static estao os css , javascript entre outros , passei pro templetes os que vou estar chamando no nosso Controller , por questões de daticas e facilitação de alteraçãoes e pra melhor intendimento !
+
 ## Funçõs da aplicação 
 
 ### tela de login
@@ -30,5 +32,5 @@ Aonde temos os campos ( Nome , Email , Senha e Observação ) aonde conseguimos 
 
 
 ## Segurança 
-Temos uma seguranças basicas entre as pages aonde so conseguimos acessar a nossa tela de login , para termos acesso as outras peges precisamos estar setado no cadastros de adminitrsdores e assim logar com o nosso email e senha cadastrado 
+Temos uma seguranças basicas entre as pages aonde so conseguimos acessar a nossa tela de login , para termos acesso as outras peges precisamos estar setado no cadastros de adminitradores e assim logar com o nosso email e senha cadastrado 
 
